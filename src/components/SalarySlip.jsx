@@ -31,7 +31,7 @@ export default function SalarySlip({ emp, month, year }) {
           </div>
         </div>
 
-        {/* --- Employee Info Table --- */}
+        {/* --- Employee Info Table --- */} 
         <table className="slip-table">
           <tbody>
             <tr>
